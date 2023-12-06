@@ -1,3 +1,3 @@
 # ollama-engine
 
-Start Ollama models.
+Run and manage Ollama models from Raycast.
