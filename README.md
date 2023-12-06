@@ -2,7 +2,7 @@
 
 Run and manage Ollama models from Raycast.
 
-This extension peeks into your local Ollama Library renders out an action for each model you have downloaded. 
+This extension peeks into your local Ollama Library and renders out an action for each model you have downloaded. 
 
 ## Install Ollama
 [Installation Directions](https://github.com/jmorganca/ollama)
