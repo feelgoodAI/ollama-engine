@@ -1,0 +1,1 @@
+export const PATH_TO_MODELS = '/Users/austinwasson/.ollama/models/manifests/registry.ollama.ai/library';

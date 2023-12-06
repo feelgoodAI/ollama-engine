@@ -3,7 +3,7 @@
   "name": "ollama-engine",
   "title": "ollama-engine",
   "description": "Start Ollama models.",
-  "icon": "command-icon.png",
+  "icon": "ollama-icon.png",
   "author": "Wasson",
   "owner": "feel-good-about-it",
   "categories": [
@@ -13,9 +13,9 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show Models",
-      "subtitle": "Start an Ollama model",
-      "description": "View and start all downloaded Ollama models",
+      "title": "Ollama Engine",
+      "subtitle": "Run a model",
+      "description": "View and start any downloaded Ollama model.",
       "mode": "view"
     }
   ],
